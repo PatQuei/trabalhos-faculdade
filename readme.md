@@ -12,17 +12,15 @@ Este repositório reúne todos os principais trabalhos desenvolvidos na discipli
 
 2. **Projeto 2: [Nome do projeto 2]**
 
-   - [Breve descrição do objetivo: ex. Lista encadeada, manipulação de arquivos, etc.]
-   - [Principais técnicas utilizadas: structs, funções, manipulação de dados.]
+   - Breve descrição do objetivo e projeto
 
 3. **Projeto 3: [Nome do projeto 3]**
 
-   - [Breve descrição do problema resolvido.]
-   - [Exemplo de aplicação prática/real.]
+   - Breve descrição do objetivo e projeto
 
 4. **Projeto 4: [Nome do projeto 4]**
-   - [Explicação do desafio proposto.]
-   - [Resumo das soluções implementadas.]
+   
+   - Breve descrição do objetivo e projeto
 
 ## Objetivos Gerais
 
@@ -47,27 +45,11 @@ Este repositório reúne todos os principais trabalhos desenvolvidos na discipli
 
 Cada pasta corresponde a um projeto específico e contém o código-fonte, instruções e eventuais documentos explicativos.
 
-## Como Executar
 
-- Consulte o README individual de cada projeto para detalhes de compilação e execução.
-- Todos os projetos são escritos em linguagem C.
-
-### Exemplo de compilação (Linux/Windows):
-
-```bash
-gcc nome-do-arquivo.c -o nome-do-projeto
-./nome-do-projeto
-```
-
-Ou no Windows:
-
-```bash
-nome-do-projeto.exe
-```
 
 ---
 
-## Autor
+## Autora
 
 **Patricia Queiroz**  
 Disciplina de Estrutura de Dados – Estácio  
